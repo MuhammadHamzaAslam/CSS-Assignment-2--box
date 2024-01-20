@@ -23,8 +23,7 @@ img{
 button{
     background-color: blue;
     border-radius: 10px;
-
-   margin: 10px;
+    margin: 10px;
 }
 .b3{
     background-color: red;
@@ -50,15 +49,14 @@ p{
 }
 .j1{
     margin-left: 10px;
-    margin-right: 0px;
     color: black;
     background-color: white;
     
 }
 
 .d1{
-    width: 100px;
-    height: 50px;
+    width: 120px;
+    height: 100px;
     background-color: rgb(255, 255, 255);
     color: black;
     margin-top: -18%;
@@ -71,8 +69,8 @@ h3{
 }
 .hour{
     /* margin: 0px 90px 50px; */
-    margin-left: 10px;
-    margin-top: -1px;
+    margin-left: 20px;
+    margin-top: 2px;
 }
 .Food1{
     background-color: green;
